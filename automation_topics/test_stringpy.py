@@ -9,7 +9,7 @@ def test_str_slice():
     assert letters[-3:] == "xyz"  # from negative index
     assert letters[:10:5] == "af"  # step slice
 
-
+# this is test
 # ---------- String Split ----------
 def test_str_split():
     text = "one two three four"
